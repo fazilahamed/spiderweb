@@ -5,7 +5,7 @@ import org.openscience.cdk.Atom;
 public class CdkApp {
 
 	public static void main(String[] args) {
-			IAtom atom = new Atom("C");
+			IAtom atom = new Atom("N");
 			System.out.println(atom);
 			
 	}
